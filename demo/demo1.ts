@@ -24,3 +24,4 @@ class Person{};
 const  dajiao : Person = new Person();
 
 const jianxiao :()=>string = ()=>{return '213123'}
+console.log('修改'）
